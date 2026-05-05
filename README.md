@@ -90,6 +90,11 @@ Competitor analysis
 
 E‑commerce intelligence
 
+## 🖥️ Dashboard Screenshot
+
+![Dashboard Screenshot](images/danboard.png)
+
+
 Internal BI dashboards
 
 Automated reporting systems
