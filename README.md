@@ -1,189 +1,99 @@
-Title
+📦 Amazon Price Tracker & ETL Dashboard
+A fully automated ETL pipeline + analytics dashboard for tracking Amazon product prices, cleaning messy data, and visualizing trends.
+Designed for real‑world reliability, automation, and production‑ready Python workflows.
 
-Amazon Price Tracker \& Multi‑Product Comparison Dashboard (Python + Streamlit + ETL)
+🚀 Features
+Automated ETL pipeline (Extract → Transform → Load)
 
+Daily price tracking with historical storage
 
+Data quality checks (missing values, anomalies, duplicates)
 
-Overview
+Interactive dashboard built with Streamlit
 
-I developed a fully automated Amazon price‑tracking system that collects product data, stores it in a structured database, and visualizes price trends through an interactive dashboard.
+SQLite database for lightweight persistence
 
-This project demonstrates my skills in Python development, ETL pipelines, data engineering, automation, and dashboard UI design.
+Modular Python architecture (etl / load / quality / dashboard)
 
+Error logging & monitoring
 
+🖥️ Dashboard Screenshot
+[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
 
-The tool is ideal for monitoring price changes, comparing multiple products, and analyzing historical trends.
+🧩 Tech Stack
+Python 3.10+
 
+Streamlit (interactive dashboard)
 
+Requests / BeautifulSoup (web scraping)
 
-What I Built
+Pandas (data cleaning & transformation)
 
-1\. Automated ETL Pipeline
+SQLite (local database)
 
-Scrapes Amazon product pages
+Cron / Task Scheduler (automation)
 
+📁 Project Structure
+コード
+amazon-etl-dashboard/
+│
+├── etl/               # Extract & transform logic
+├── dashboard/         # Streamlit UI
+├── db/                # SQLite database
+├── images/            # Screenshots & assets
+├── scheduler.py       # Automation entrypoint
+├── load.py            # Load to DB
+├── quality.py         # Data validation
+└── README.md
+🔄 ETL Flow
+Extract product data from Amazon
 
+Validate & clean messy real‑world HTML
 
-Extracts product title and price
+Transform into structured records
 
+Load into SQLite
 
+Visualize trends in Streamlit dashboard
 
-Cleans and transforms raw data
-
-
-
-Stores results in a SQLite database
-
-
-
-Runs automatically via scheduler
-
-
-
-2\. Interactive Streamlit Dashboard
-
-Clean, modern UI with custom styling
-
-
-
-Product detail card (current price, min/max price, last update)
-
-
-
-Multi‑product comparison using Altair
-
-
-
-Color‑coded line charts with tooltips
-
-
-
-Responsive layout for desktop and mobile
-
-
-
-3\. Local Database (SQLite)
-
-Lightweight and fast
-
-
-
-Easy to inspect and extend
-
-
-
-Stores full historical price data
-
-
-
-Technical Skills Demonstrated
-
-Python (Requests, BeautifulSoup, Pandas)
-
-
-
-ETL Pipeline Design
-
-
-
-Streamlit Dashboard Development
-
-
-
-SQLite Database Design
-
-
-
-Data Cleaning \& Transformation
-
-
-
-Web Scraping Automation
-
-
-
-Altair Data Visualization
-
-
-
-UI/UX for Data Apps
-
-
-
-Challenges Solved
-
-Handling dynamic Amazon HTML structures
-
-
-
-Ensuring stable scraping without breaking
-
-
-
-Designing a clean schema for historical price tracking
-
-
-
-Avoiding duplicate entries
-
-
-
-Building a dashboard that is both simple and powerful
-
-
-
-Implementing multi‑product comparison with clear visualization
-
-
-
-Value for Clients
-
-This project shows that I can:
-
-
-
-Build complete end‑to‑end automation systems
-
-
-
-Create dashboards that are both functional and visually polished
-
-
+🧪 Skills Demonstrated
+This project shows my ability to:
 
 Design reliable ETL pipelines
 
-
-
 Work with real‑world messy data
 
+Build production‑ready Python applications
 
+Create automation scripts
 
-Deliver production‑ready Python applications
+Develop internal dashboards
 
+Build data collection bots
 
+Deliver business intelligence mini‑systems
 
-I can apply the same skills to:
-
-
-
+▶️ How to Run
+1. Install dependencies
+コード
+pip install -r requirements.txt
+2. Run ETL pipeline
+コード
+python scheduler.py
+3. Launch dashboard
+コード
+streamlit run dashboard/app.py
+🌍 Use Cases
 Price monitoring tools
 
+Competitor analysis
 
+E‑commerce intelligence
 
-Data collection bots
+Internal BI dashboards
 
+Automated reporting systems
 
-
-Internal dashboards
-
-
-
-Automation scripts
-
-
-
-Business intelligence mini‑systems
-
-
-![Dashboard Screenshot](images/danboard.png)
-
+📬 Contact
+Takayuki Kabata — Python Developer (Osaka, Japan)  
+Portfolio-ready project for international freelance work.
