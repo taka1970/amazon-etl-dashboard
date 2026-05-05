@@ -1,0 +1,116 @@
+2026-05-05 17:41:27,115 - INFO - ETL開始
+2026-05-05 17:41:29,979 - INFO - 保存完了: {'datetime': '2026-05-05 17:41:29', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'price': 18200}
+2026-05-05 17:50:22,637 - INFO - ETL開始
+2026-05-05 17:50:25,500 - INFO - 保存完了: {'datetime': '2026-05-05 17:50:25', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'price': 18200}
+2026-05-05 17:53:49,137 - INFO - === ETL開始 ===
+2026-05-05 17:53:49,138 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 17:53:52,092 - INFO - 保存完了: {'datetime': '2026-05-05 17:53:52', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'price': 18200}
+2026-05-05 17:53:52,093 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 17:53:52,799 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 17:53:52,800 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 17:53:53,494 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 17:53:53,495 - INFO - === ETL完了 ===
+2026-05-05 18:09:01,528 - INFO - === ETL開始 ===
+2026-05-05 18:09:01,529 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:10:25,988 - INFO - === ETL開始 ===
+2026-05-05 18:10:25,988 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:12:23,141 - INFO - === ETL開始 ===
+2026-05-05 18:12:23,141 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:13:46,974 - INFO - === ETL開始 ===
+2026-05-05 18:13:46,975 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:16:07,340 - INFO - === ETL開始 ===
+2026-05-05 18:16:07,341 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:16:10,103 - INFO - 保存完了: {'datetime': '2026-05-05 18:16:10', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:16:10,103 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:16:10,732 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:16:10,732 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:16:11,593 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:16:11,594 - INFO - === ETL完了 ===
+2026-05-05 18:19:48,248 - INFO - === ETL開始 ===
+2026-05-05 18:19:48,249 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:19:51,013 - INFO - 保存完了: {'datetime': '2026-05-05 18:19:51', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:19:51,013 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:19:51,635 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:19:51,636 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:19:52,276 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:19:52,276 - INFO - === ETL完了 ===
+2026-05-05 18:21:35,919 - INFO - === ETL開始 ===
+2026-05-05 18:21:35,919 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:21:38,746 - INFO - 保存完了: {'datetime': '2026-05-05 18:21:38', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:21:38,747 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:21:39,430 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:21:39,431 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:21:40,086 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:21:40,086 - INFO - === ETL完了 ===
+2026-05-05 18:25:40,254 - INFO - === ETL開始 ===
+2026-05-05 18:25:40,255 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:25:43,386 - INFO - 保存完了: {'datetime': '2026-05-05 18:25:43', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:25:43,386 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:25:43,997 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:25:43,998 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:25:44,629 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:25:44,629 - INFO - === ETL完了 ===
+2026-05-05 18:27:10,740 - INFO - === ETL開始 ===
+2026-05-05 18:27:10,740 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:27:13,621 - INFO - 保存完了: {'datetime': '2026-05-05 18:27:13', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:27:13,622 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:27:14,260 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:27:14,261 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:27:14,927 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:27:14,928 - INFO - === ETL完了 ===
+2026-05-05 18:28:36,937 - INFO - === ETL開始 ===
+2026-05-05 18:28:36,938 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:28:39,586 - INFO - 保存完了: {'datetime': '2026-05-05 18:28:39', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:28:39,587 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:28:40,208 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:28:40,209 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:28:40,853 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:28:40,853 - INFO - === ETL完了 ===
+2026-05-05 18:33:01,082 - INFO - === ETL開始 ===
+2026-05-05 18:33:01,083 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:33:03,823 - INFO - 保存完了: {'datetime': '2026-05-05 18:33:03', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:33:03,823 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:33:04,487 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:33:04,487 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:33:05,351 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:33:05,351 - INFO - === ETL完了 ===
+2026-05-05 18:34:50,163 - INFO - === ETL開始 ===
+2026-05-05 18:34:50,164 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:34:52,950 - INFO - 保存完了: {'datetime': '2026-05-05 18:34:52', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:34:52,950 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:34:53,601 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:34:53,601 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:34:54,341 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:34:54,342 - INFO - === ETL完了 ===
+2026-05-05 18:37:47,200 - INFO - === ETL開始 ===
+2026-05-05 18:37:47,201 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:37:50,288 - INFO - 保存完了: {'datetime': '2026-05-05 18:37:50', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:37:50,288 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:37:50,984 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:37:50,985 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:37:52,840 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:37:52,840 - INFO - === ETL完了 ===
+2026-05-05 18:42:46,661 - INFO - === ETL開始 ===
+2026-05-05 18:42:46,661 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:42:49,475 - INFO - 保存完了: {'datetime': '2026-05-05 18:42:49', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:42:49,475 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:42:50,095 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:42:50,096 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:42:50,789 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:42:50,789 - INFO - === ETL完了 ===
+2026-05-05 18:44:19,189 - INFO - === ETL開始 ===
+2026-05-05 18:44:19,190 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:44:22,387 - INFO - 保存完了: {'datetime': '2026-05-05 18:44:22', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:44:22,388 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:44:23,291 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:44:23,291 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:44:24,273 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:44:24,273 - INFO - === ETL完了 ===
+2026-05-05 18:53:40,260 - INFO - === ETL開始 ===
+2026-05-05 18:53:40,261 - INFO - 処理開始: https://www.amazon.co.jp/dp/B07Q8TJ2KL
+2026-05-05 18:53:43,823 - INFO - 保存完了: {'datetime': '2026-05-05 18:53:43', 'url': 'https://www.amazon.co.jp/dp/B07Q8TJ2KL', 'title': 'ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】', 'price': 18200}
+2026-05-05 18:53:43,823 - INFO - 処理開始: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:53:44,517 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B0CGLV7Z8P
+2026-05-05 18:53:44,518 - INFO - 処理開始: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:53:45,558 - ERROR - 品質エラー: ['価格が取得できませんでした'] | URL: https://www.amazon.co.jp/dp/B09V3HN1V7
+2026-05-05 18:53:45,558 - INFO - === ETL完了 ===
