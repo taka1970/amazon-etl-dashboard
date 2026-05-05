@@ -17,8 +17,7 @@ Modular Python architecture (etl / load / quality / dashboard)
 
 Error logging & monitoring
 
-🖥️ Dashboard Screenshot
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+
 
 🧩 Tech Stack
 Python 3.10+
