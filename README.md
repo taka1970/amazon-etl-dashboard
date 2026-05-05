@@ -187,4 +187,3 @@ Business intelligence mini‑systems
 
 ![Dashboard Screenshot](images/danboard.png)
 
-
